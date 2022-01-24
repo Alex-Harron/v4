@@ -144,10 +144,10 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and after a couple of years of working in IT and closely with
-              developers on my teams, I decided to rekindle my interests and dive head first into
-              the world of software engineering. I'm always focused on learning new technologies and
-              jumping deeper into this passion of mine.
+              Fast-forward to today, after a couple of years of working in IT with developers on my
+              teams, my passion for software engineering became clear so I dove into this new world
+              by joining the FlatIron School. Today, I'm focused on learning new technologies and
+              getting to apply my knowledge in a real-world setting.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

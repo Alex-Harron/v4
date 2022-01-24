@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'SeaBreeze Reality'
+title: 'SeaBreeze Realty'
 cover: './SeaBreeze.png'
 github: 'https://github.com/Alex-Harron/beach_properties_frontend'
 external: 'https://seabreeze-reality.herokuapp.com/'
