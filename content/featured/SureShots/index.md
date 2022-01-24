@@ -3,7 +3,7 @@ date: '3'
 title: 'Sure Shots'
 cover: './SureShots.png'
 github: 'https://github.com/Alex-Harron/beach_properties_frontend'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://sure-shots.herokuapp.com/'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
   - Ruby on Rails
